@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Oswald:wght@200;300;400;500;600;700&display=swap");
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+
+.icons a {
+  color: #9c9c9c;
+}
+.icons i {
+  padding: 0 5px;
+}
+
+header {
+  background: #fff;
+  -webkit-box-shadow: 0px 5px 5px rgba(102, 102, 102, 0.4);
+          box-shadow: 0px 5px 5px rgba(102, 102, 102, 0.4);
+}
+header a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+}
+header .call {
+  font-size: 14px;
+}
+
+.seller a {
+  text-decoration: none;
+  color: #9c9c9c;
+  font-size: 14px;
+}
+
+.bg-light {
+  background: linear-gradient(135deg, #4854a2 30%, #772088 100%);
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 10px 15px;
+  color: #fff;
+  border-right: 1px solid #ccc;
+}
+
+.rightborder a {
+  border: none !important;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #4854a2 30%, #772088 100%);
+  border: none;
+  font-size: 12px;
+  color: #fff;
+}
+
+.box {
+  position: relative;
+  margin: 30px 30px;
+}
+.box span {
+  position: absolute;
+  background: #D84D72;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  top: -15px;
+  left: -25px;
+  font-size: 12px;
+  padding: 5px;
+}
+
+/*New Products*/
+.btn-outline-primary {
+  color: #416FA4;
+  font-weight: bold;
+  font-size: 12px;
+  border: 2px solid #416FA4;
+}
+.btn-outline-primary:hover {
+  background: none;
+  color: #416FA4;
+  font-weight: bold;
+}
+
+/*Seasonal Products*/
+/*footer*/
+.form-control {
+  font-size: 12px;
+  padding: 10px 5px;
+}
+
+footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+footer ul li {
+  line-height: 24px;
+}
+footer ul li a {
+  text-decoration: none;
+  color: #416084;
+}
+
+.abc ul li a {
+  text-decoration: underline;
+}
+
+.btm {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-size: 12px;
+}/*# sourceMappingURL=style.css.map */
