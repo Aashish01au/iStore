@@ -31,13 +31,13 @@ function Home() {
         </div>
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img className="w-100" src="./src/images/4.png" alt="..." />
+            <img className="w-100" src="./src/images/carholder.jpg" alt="..." />
           </div>
           <div className="carousel-item">
-            <img className="w-100" src="../src/images/4.png" alt="..." />
+            <img className="w-100" src="../src/images/bottle.jpg" alt="..." />
           </div>
           <div className="carousel-item">
-            <img className="w-100" src="../src/images/4.png" alt="..." />
+            <img className="w-100" src="../src/images/kinfe.jpg" alt="..." />
           </div>
         </div>
       </div>
